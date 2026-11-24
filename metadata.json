@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI - مساعدك الصوتي والذكي الخارق",
+  "description": "مساعد شخصي ذكي متقدم بخاصية التنبيه الصوتي (Wake Word)، محادثة صوتية تفاعلية، توليد صور، بحث ويب مباشر، ونماذج ذكاء شاملة على غرار Gemini و ChatGPT و Claude.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
